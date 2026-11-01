@@ -4,18 +4,18 @@
 
 backend:
   name: github
-  repo: YOUR-GITHUB-USER/teddypups-website # <- set to the real repository
+repo: venkateswarlu2005/Insta-Biz-Web # <- set to the real repository
   branch: main
   # GitHub sign-in helper (free Cloudflare Worker): https://github.com/sveltia/sveltia-cms-auth
-  base_url: https://sveltia-cms-auth.YOUR-ACCOUNT.workers.dev # <- set after deploying the worker
+  base_url: https://sveltia-cms-auth.mocherlavenkateswarlu55.workers.dev/ # <- set after deploying the worker
   commit_messages:
     create: 'Add {{collection}} "{{slug}}"'
     update: 'Update {{collection}} "{{slug}}"'
     delete: 'Remove {{collection}} "{{slug}}"'
     uploadMedia: 'Upload "{{path}}"'
 
-site_url: https://puppy.instabizweb.com
-display_url: https://puppy.instabizweb.com
+site_url: https://insta-biz-web.pages.dev
+display_url: https://insta-biz-web.pages.dev
 logo_url: /brand/logo.png
 
 # New photos and videos go to /public/uploads (the build makes small WebP copies automatically).

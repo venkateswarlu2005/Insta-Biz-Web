@@ -1,0 +1,39 @@
+{
+  "name": "Bailey",
+  "breed": "Bichon",
+  "breeds": [
+    "Bichon"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 25,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/fI-hlHuSwrRw/e5ae9b6384/27b888_8d87239e23854214a8718ef8f02c2d50-mv2.avif",
+      "alt": "Bailey, male Bichon puppy",
+      "focus": "51.6% 42.8%",
+      "color": "#c8c8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/9w3Xrwp8VCQp/e455e81074/27b888_35987320182c43ae99f69be57dc808f4-mv2.avif",
+      "alt": "Bailey, male Bichon puppy, photo 2",
+      "focus": "53.1% 43.1%",
+      "color": "#f8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/Kcx3CL9712j_/4d02eb8bc1/27b888_15ab969ab9fd43eeada4ffe32cbd28b3-mv2.avif",
+      "alt": "Bailey, male Bichon puppy, photo 3",
+      "focus": "47.4% 41.8%",
+      "color": "#f8e8e8"
+    }
+  ]
+}

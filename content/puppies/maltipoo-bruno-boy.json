@@ -1,0 +1,46 @@
+{
+  "name": "Bruno",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 7,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/w-F8mJLs2gtj/f06147a6d3/27b888_301f58cbae624a1da36a79d46571043a-mv2.avif",
+      "alt": "Bruno, male Maltipoo puppy",
+      "focus": "46.4% 38.8%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/sFWdG817xVHX/96d23eb3f7/27b888_1900b3043828456487ba691ded1218c4-mv2.avif",
+      "alt": "Bruno, male Maltipoo puppy, photo 2",
+      "focus": "49.6% 39.1%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/_C1zdODua2ZN/c3d54b2826/27b888_13022aca014f48f288b9fce1160ecebf-mv2.avif",
+      "alt": "Bruno, male Maltipoo puppy, photo 3",
+      "focus": "50% 38.9%",
+      "color": "#f8d8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/8LG8sn_WCTjw/0cf34c0d89/27b888_ac4fe05ef05449c59d3923190fb5c6a5-mv2.avif",
+      "alt": "Bruno, male Maltipoo puppy, photo 4",
+      "focus": "53.5% 37.9%",
+      "color": "#f8f8f8"
+    }
+  ]
+}

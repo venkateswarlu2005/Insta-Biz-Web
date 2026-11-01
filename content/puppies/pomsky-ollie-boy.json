@@ -1,0 +1,39 @@
+{
+  "name": "Ollie",
+  "breed": "Pomsky",
+  "breeds": [
+    "Pomsky"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 6,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/Qs2IHRk7OQIm/c16bea255c/27b888_ef3324a358d64858b4873a146574c3b9-mv2.avif",
+      "alt": "Ollie, male Pomsky puppy",
+      "focus": "53.2% 38.1%",
+      "color": "#b8c888"
+    },
+    {
+      "type": "image",
+      "src": "/media/g09DNVZ6dQZK/ed33a9fbee/27b888_e016ccea108f4c3abab42be1abfd8ff3-mv2.avif",
+      "alt": "Ollie, male Pomsky puppy, photo 2",
+      "focus": "47% 47.8%",
+      "color": "#483838"
+    },
+    {
+      "type": "image",
+      "src": "/media/b0jQRckH8Ukp/1272d63346/27b888_6703c592de5940388671ef8b66afca17-mv2.avif",
+      "alt": "Ollie, male Pomsky puppy, photo 3",
+      "focus": "50.3% 37.3%",
+      "color": "#d8d8d8"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "breed": "Shih Tzu",
+  "breeds": [
+    "Shih Tzu"
+  ],
+  "gender": "boy",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": false,
+  "order": 10,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/crgs9ih6as_M/e37bafb1bf/b942a5_344e49c6c34940d2b09a3ddd5c2e3234-mv2.jpg",
+      "alt": "Male Shih Tzu puppy",
+      "focus": "40.3% 43.6%",
+      "color": "#787888"
+    },
+    {
+      "type": "image",
+      "src": "/media/nGRgg9NQ0H_U/cb555fde1b/b942a5_38d832caea1148af824ab378c45ea865-mv2.jpg",
+      "alt": "Male Shih Tzu puppy, photo 2",
+      "focus": "46.8% 58.4%",
+      "color": "#989898"
+    }
+  ]
+}

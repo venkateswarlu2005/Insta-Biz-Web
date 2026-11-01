@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 26,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/Cl0B4v8U3Y-d/3dea5a9fec/27b888_1ae70e063fd7451a87d4dfe79794d58f-mv2.avif",
+      "alt": "Female Maltipoo puppy",
+      "focus": "48.3% 31.3%",
+      "color": "#182808"
+    }
+  ]
+}

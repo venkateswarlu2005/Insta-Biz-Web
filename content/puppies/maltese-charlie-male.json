@@ -1,0 +1,25 @@
+{
+  "name": "Charlie",
+  "breed": "Maltese",
+  "breeds": [
+    "Maltese"
+  ],
+  "gender": "boy",
+  "age": "3.5 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 9,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/0c1rFiKXQLLk/75c6a20e15/27b888_b22287e7c1594de7ab2fba46eabea376-mv2.avif",
+      "alt": "Charlie, male Maltese puppy",
+      "focus": "46.8% 33.4%",
+      "color": "#e8e8e8"
+    }
+  ]
+}

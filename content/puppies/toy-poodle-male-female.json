@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "breed": "Toy Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "boy-girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": true,
+  "order": 5,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/vMu0BPvkAZ-j/c65e53967d/b942a5_0b2c0c0d178c4005acbe28725a5ea573-mv2.jpg",
+      "alt": "Toy Poodle puppy",
+      "focus": "65.4% 44.7%",
+      "color": "#c8c8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/wi6_RA1P4tyP/770eee919a/b942a5_2a0eeb7824e648a7812a4ba0ab504986-mv2.jpg",
+      "alt": "Toy Poodle puppy, photo 2",
+      "focus": "43.1% 40.8%",
+      "color": "#b8b8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/Yip9Os6wu5UL/9031f811cb/b942a5_ae972de107eb4d9d9cfa33cb26845beb-mv2.jpg",
+      "alt": "Toy Poodle puppy, photo 3",
+      "focus": "45.5% 32.9%",
+      "color": "#b8b8b8"
+    }
+  ]
+}

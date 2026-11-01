@@ -1,0 +1,39 @@
+{
+  "name": "Molly",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 17,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/lsaKvJhLwHB4/4cf2a02ed1/27b888_5aa959cec570411a8bb9372abe23f5e9-mv2.avif",
+      "alt": "Molly, female Poodle puppy",
+      "focus": "59.1% 37.7%",
+      "color": "#784828"
+    },
+    {
+      "type": "image",
+      "src": "/media/6Z0Cq7I0EDE9/96fd5492de/27b888_3fdc11fb073049ef911bf1f24410e941-mv2.avif",
+      "alt": "Molly, female Poodle puppy, photo 2",
+      "focus": "54.1% 35.3%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/W0C2LYvmeHZb/e7d4ba3b17/27b888_aa09bc922b55406ea3c81e40da5446c0-mv2.avif",
+      "alt": "Molly, female Poodle puppy, photo 3",
+      "focus": "43% 38.5%",
+      "color": "#d8e8e8"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 27,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/sFgPBojUhFBo/5ac1429cf4/27b888_aa0ce426ca3848abbc7d695f8c818568-mv2.avif",
+      "alt": "Female Poodle puppy",
+      "focus": "44% 32.8%",
+      "color": "#d8d8d8"
+    }
+  ]
+}

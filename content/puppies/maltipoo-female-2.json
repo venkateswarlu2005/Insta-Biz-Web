@@ -1,0 +1,70 @@
+{
+  "name": "",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": true,
+  "order": 6,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/3WJNmn6VVgVu/732f779474/b942a5_2b5dcece361b4589890ae920c66a1b70-mv2.jpg",
+      "alt": "Female Maltipoo puppy",
+      "focus": "64.6% 42.3%",
+      "color": "#080808"
+    },
+    {
+      "type": "image",
+      "src": "/media/s4vjs4fDhIH5/13bc63e2d9/b942a5_814fc9ca21e943149ca1b73af08c0d50-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 2",
+      "focus": "65.8% 39.4%",
+      "color": "#080808"
+    },
+    {
+      "type": "image",
+      "src": "/media/P339nL9SBx1E/68f8b9aa08/b942a5_f4f6b9eaf3fa434d84e9011b104a2f2e-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 3",
+      "focus": "61.1% 54.9%",
+      "color": "#080818"
+    },
+    {
+      "type": "image",
+      "src": "/media/Bba5vIUEEoRl/b9cb795228/b942a5_2cea5a50b30b4e6d81ef2b71a4455d04-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 4",
+      "focus": "68.8% 46.6%",
+      "color": "#080808"
+    },
+    {
+      "type": "video",
+      "src": "/media/Q6DRbgSnEgtV/f069a77a72/b942a5_867cc819aad8444bbdc7ef58bccc22e3.mp4",
+      "poster": "/media/e9Tc1KFwflMo/bf15ff5eaf/b942a5_867cc819aad8444bbdc7ef58bccc22e3f000.jpg",
+      "alt": "Video of female Maltipoo puppy",
+      "focus": "78.9% 36.6%",
+      "color": "#b8a878"
+    },
+    {
+      "type": "video",
+      "src": "/media/F0GAEsYGQHAH/d28cb39828/b942a5_409c00762732451a9c914fd605f6427b.mp4",
+      "poster": "/media/sE8ic09hv3OL/df0013d33c/b942a5_409c00762732451a9c914fd605f6427bf000.jpg",
+      "alt": "Video of female Maltipoo puppy",
+      "focus": "39.2% 26.8%",
+      "color": "#b8a898"
+    },
+    {
+      "type": "video",
+      "src": "/media/RC96jX2CHK7g/a33aea35af/b942a5_4363a677510a4d298769f98ad3d42742.mp4",
+      "poster": "/media/Wxd28D1k9rc-/f1091062ce/b942a5_4363a677510a4d298769f98ad3d42742f000.jpg",
+      "alt": "Video of female Maltipoo puppy",
+      "focus": "43.5% 37.9%",
+      "color": "#181828"
+    }
+  ]
+}

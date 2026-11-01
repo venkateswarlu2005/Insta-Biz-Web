@@ -1,0 +1,17 @@
+{
+  "brand": "TeddyPups U.A.E.",
+  "shortName": "TeddyPups",
+  "tagline": "every puppy is family",
+  "siteUrl": "https://puppy.instabizweb.com",
+  "phone": "+971 54 167 6733",
+  "whatsapp": "971541676733",
+  "whatsappGreeting": "Hi TeddyPups! I'd love to know more about your puppies.",
+  "email": "teddypupsadmin@gmail.com",
+  "address": "Downtown Dubai, United Arab Emirates",
+  "about": "TeddyPups U.A.E. is a Dubai-based brand specializing in miniature puppies, offering premium services and worldwide shipping.",
+  "socials": [
+    { "label": "Instagram", "url": "https://www.instagram.com/teddypups.worldwide/" },
+    { "label": "TikTok", "url": "https://www.tiktok.com/@teddypupsuae" },
+    { "label": "Facebook", "url": "https://www.facebook.com/profile.php?id=61567496944539" }
+  ]
+}

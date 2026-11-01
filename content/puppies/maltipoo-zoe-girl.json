@@ -1,0 +1,53 @@
+{
+  "name": "Zoe",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 23,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/fxj_9aZOSxQM/90c10b9c91/27b888_89e442e0035442308fc87fe3d2837f1d-mv2.avif",
+      "alt": "Zoe, female Maltipoo puppy",
+      "focus": "32.8% 37.6%",
+      "color": "#f8e8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/-n7-ho2rs84i/7746f2356d/27b888_3a53b018883544d1873c4696c69d571a-mv2.avif",
+      "alt": "Zoe, female Maltipoo puppy, photo 2",
+      "focus": "53.2% 37.7%",
+      "color": "#f8e8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/t43PZgjPeE4u/b21905b257/27b888_fdabe5905e95438c83c1cca88b1536f4-mv2.avif",
+      "alt": "Zoe, female Maltipoo puppy, photo 3",
+      "focus": "49.3% 42.6%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/bD6FLYEKXj-U/7d6dc5edb7/27b888_0897a6f998764f9c9819764cdf01c031-mv2.avif",
+      "alt": "Zoe, female Maltipoo puppy, photo 4",
+      "focus": "44% 37.5%",
+      "color": "#d8b8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/BlBD6bzXcTBL/a0e34558b5/27b888_67c6c47dd84d4ad7a1937a96d9f68677-mv2.avif",
+      "alt": "Zoe, female Maltipoo puppy, photo 5",
+      "focus": "51.8% 37.8%",
+      "color": "#e8d8d8"
+    }
+  ]
+}

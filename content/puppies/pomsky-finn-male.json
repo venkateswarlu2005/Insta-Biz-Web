@@ -1,0 +1,25 @@
+{
+  "name": "Finn",
+  "breed": "Pomsky",
+  "breeds": [
+    "Pomsky"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 22,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/tEAwWspMD8iG/1f55440daf/27b888_c68794a6e9ee442abb522a1d88a1e8cd-mv2.avif",
+      "alt": "Finn, male Pomsky puppy",
+      "focus": "56.8% 50.1%",
+      "color": "#b8b8b8"
+    }
+  ]
+}

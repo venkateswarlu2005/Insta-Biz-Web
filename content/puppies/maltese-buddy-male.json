@@ -1,0 +1,25 @@
+{
+  "name": "Buddy",
+  "breed": "Maltese",
+  "breeds": [
+    "Maltese"
+  ],
+  "gender": "boy",
+  "age": "2 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 8,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/5ygCaO2TQb3v/f23ade89fa/27b888_6053b478acb641d1865de22aef938977-mv2.avif",
+      "alt": "Buddy, male Maltese puppy",
+      "focus": "48.3% 37.6%",
+      "color": "#d8d8d8"
+    }
+  ]
+}

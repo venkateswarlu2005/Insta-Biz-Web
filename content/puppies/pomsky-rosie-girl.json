@@ -1,0 +1,46 @@
+{
+  "name": "Rosie",
+  "breed": "Pomsky",
+  "breeds": [
+    "Pomsky"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 15,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/FhrW7pE84bji/f7c57baf49/27b888_08271c7de284451fb9c848757f4838fb-mv2.avif",
+      "alt": "Rosie, female Pomsky puppy",
+      "focus": "49.1% 37.8%",
+      "color": "#e8d8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/gWQccavfMH2y/afd03d9663/27b888_d8720369f59e4ed0a19c26cb8d350af9-mv2.avif",
+      "alt": "Rosie, female Pomsky puppy, photo 2",
+      "focus": "57.5% 38.1%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/MDgYDAK-rYNS/aac956ac10/27b888_9c3859736492466abffef43656de028e-mv2.avif",
+      "alt": "Rosie, female Pomsky puppy, photo 3",
+      "focus": "50.7% 38.2%",
+      "color": "#c8b8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/XSnEb3BCsWp3/86e6d0aea9/27b888_04b26924c4ef4830904892c4f2d1694f-mv2.avif",
+      "alt": "Rosie, female Pomsky puppy, photo 4",
+      "focus": "56.2% 37.7%",
+      "color": "#080808"
+    }
+  ]
+}

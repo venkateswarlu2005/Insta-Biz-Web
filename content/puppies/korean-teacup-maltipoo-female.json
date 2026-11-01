@@ -1,0 +1,96 @@
+{
+  "name": "",
+  "breed": "Korean Teacup Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": true,
+  "status": "available",
+  "hero": true,
+  "order": 2,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/gAaGwoGej2g6/5523e884dd/b942a5_50f0ae67c9ff437d911597d52a9e63b3-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy",
+      "focus": "52.5% 42.6%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/lrYgKCzauGW9/862b350f1f/b942a5_dd7daf7c699444a8bfea0bb4dcf963a1-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 2",
+      "focus": "58.3% 39.7%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/2HME5hUXxDGx/c14e39aab8/b942a5_bab687bfd14446ed854f19e1550eb266-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 3",
+      "focus": "45.4% 43%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/_I7jTQ-C-Dh5/b09aa1a0f5/b942a5_830ab138aef84b82b3db7b48185ee50c-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 4",
+      "focus": "32.6% 55.4%",
+      "color": "#e8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/kutyfJpoJ-DA/ca1aa390f9/b942a5_71048e5af78a49e4b6e412bee89631e2-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 5",
+      "focus": "53.7% 45.7%",
+      "color": "#686868"
+    },
+    {
+      "type": "image",
+      "src": "/media/NCtufeu82GJy/0cb53c797a/b942a5_ebec2dc631bf4872aeb94a01c0f12dd7-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 6",
+      "focus": "57.7% 53.1%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/fQuTnvGZbJAa/86ed3161c6/b942a5_5d0c26e331114666b05aeb4fca8cd3f1-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 7",
+      "focus": "51.3% 44.9%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/ds4-88xZCxr-/8317b998ec/b942a5_b9aafc7b5d0040e4819b526de9f4c1e2-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 8",
+      "focus": "51.3% 42.3%",
+      "color": "#d8d8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/vdAI8reODuzV/51cc01057b/b942a5_27cb35500f7b4c53b3e379324de49ba7-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 9",
+      "focus": "53.7% 40.6%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/3brH1qwkxHa9/5f4c527879/b942a5_4b29b9e240d145ce8673732fa58dc7ec-mv2.jpg",
+      "alt": "Female Korean Teacup Maltipoo puppy, photo 10",
+      "focus": "50.8% 52.5%",
+      "color": "#b8b8b8"
+    },
+    {
+      "type": "video",
+      "src": "/media/sfXWPM3b8qVt/5b2a08dab3/b942a5_fc2a6555d51b4e65b8ad229592c3755b.mp4",
+      "poster": "/media/VEmjKw7D8k2w/44fc2c4d8f/b942a5_fc2a6555d51b4e65b8ad229592c3755bf002.jpg",
+      "alt": "Video of female Korean Teacup Maltipoo puppy",
+      "focus": "60.6% 51.5%",
+      "color": "#e8e8e8"
+    }
+  ]
+}

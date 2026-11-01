@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "breed": "Korean Teacup Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "boy",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": true,
+  "status": "available",
+  "hero": false,
+  "order": 15,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/nZTGFv46hrZI/fb9eeefc9c/b942a5_dcb8eb174915463ea0c40c58b7b0e406-mv2.jpg",
+      "alt": "Male Korean Teacup Pomeranian puppy",
+      "focus": "48.9% 44.1%",
+      "color": "#080808"
+    },
+    {
+      "type": "image",
+      "src": "/media/vxOcjPUQjM2M/768e4b20eb/b942a5_86735dc871b942c8b823521cf5fcf31e-mv2.jpg",
+      "alt": "Male Korean Teacup Pomeranian puppy, photo 2",
+      "focus": "43.4% 44.3%",
+      "color": "#282818"
+    },
+    {
+      "type": "image",
+      "src": "/media/U_Qh2K9avqUE/3e9d7625dc/b942a5_f47099133ac14a69b1b1151c8f977a9a-mv2.jpg",
+      "alt": "Male Korean Teacup Pomeranian puppy, photo 3",
+      "focus": "45.1% 44.6%",
+      "color": "#484838"
+    },
+    {
+      "type": "image",
+      "src": "/media/b29CnSlKSaNP/f3fd8ae60a/b942a5_287558eefc7e4386ad0c30344e6c4c62-mv2.jpg",
+      "alt": "Male Korean Teacup Pomeranian puppy, photo 4",
+      "focus": "57.1% 48.1%",
+      "color": "#080808"
+    }
+  ]
+}

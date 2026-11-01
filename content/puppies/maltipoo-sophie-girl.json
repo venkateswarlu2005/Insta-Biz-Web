@@ -1,0 +1,39 @@
+{
+  "name": "Sophie",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 19,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/PYYTxpqgo76_/ae53ae6d3c/27b888_0d89c05fa55c43d4b6d55d573be83e73-mv2.avif",
+      "alt": "Sophie, female Maltipoo puppy",
+      "focus": "47.6% 37.8%",
+      "color": "#d8b898"
+    },
+    {
+      "type": "image",
+      "src": "/media/acBlWdOFAQPR/d55063d45b/27b888_8d67c9bb33cf4732af42585ecc72cbb8-mv2.avif",
+      "alt": "Sophie, female Maltipoo puppy, photo 2",
+      "focus": "52.3% 38.2%",
+      "color": "#b88868"
+    },
+    {
+      "type": "image",
+      "src": "/media/QNQCIylbIb5p/a8457ee067/27b888_e980d938e9a04743bedab9c03afb7bff-mv2.avif",
+      "alt": "Sophie, female Maltipoo puppy, photo 3",
+      "focus": "51% 43.5%",
+      "color": "#d8b888"
+    }
+  ]
+}

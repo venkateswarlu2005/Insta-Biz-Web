@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": true,
+  "order": 7,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/3yOfnmoyPooH/81e0c7e00c/b942a5_556841b9a73942e5a9d782a683f3bc68-mv2.jpg",
+      "alt": "Female Pomeranian puppy",
+      "focus": "40.3% 44.3%",
+      "color": "#080808"
+    },
+    {
+      "type": "image",
+      "src": "/media/-kKg81ORXQbR/2df3e9d7fe/b942a5_04ffe4a8ebf2404fad62b654f5ffdf44-mv2.jpg",
+      "alt": "Female Pomeranian puppy, photo 2",
+      "focus": "37.6% 40.5%",
+      "color": "#b8a8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/tWfepr0dPXso/6b8445f11e/b942a5_87c1bf878b9642b0abde73d40a4a672d-mv2.jpg",
+      "alt": "Female Pomeranian puppy, photo 3",
+      "focus": "40.3% 38.3%",
+      "color": "#c8c8c8"
+    }
+  ]
+}

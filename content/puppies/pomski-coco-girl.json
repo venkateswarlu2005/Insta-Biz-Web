@@ -1,0 +1,39 @@
+{
+  "name": "Coco",
+  "breed": "Pomsky",
+  "breeds": [
+    "Pomsky"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 14,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/CXIzj6hYrmuI/eff60812df/27b888_ce94335cf4714a99a78c799f666f9323-mv2.avif",
+      "alt": "Coco, female Pomsky puppy",
+      "focus": "60.3% 38.5%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/-FHvJVowe9BE/03de9ef58b/27b888_c8e0f04b069d474991bf8fb4aa9341f3-mv2.avif",
+      "alt": "Coco, female Pomsky puppy, photo 2",
+      "focus": "50.4% 42%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/eEAN9ehfgzUH/cf356a84c6/27b888_c0eefbb89aac415dab1ee26480870561-mv2.avif",
+      "alt": "Coco, female Pomsky puppy, photo 3",
+      "focus": "50.1% 37.3%",
+      "color": "#78b868"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Leo",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 2,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/QgFG5s09n-ss/81af626d2d/27b888_5f9a7189bb21477d832047aae2040921-mv2.avif",
+      "alt": "Leo, male Poodle puppy",
+      "focus": "52.1% 38%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/F8zqSF5XZxAk/a3226c1171/27b888_13f8d678857b46dfbc89fb6e8f534c63-mv2.avif",
+      "alt": "Leo, male Poodle puppy, photo 2",
+      "focus": "53.2% 37.5%",
+      "color": "#c89888"
+    },
+    {
+      "type": "image",
+      "src": "/media/HQOMaqO-G9hC/c0834a1bcb/27b888_87b8b65668744570891021f2889c0e88-mv2.avif",
+      "alt": "Leo, male Poodle puppy, photo 3",
+      "focus": "49.4% 42.8%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/Nsj42jGLv1Oj/6d01365ca7/27b888_9b5b6e8f72af4dfd98eb1a6ae5ac01c6-mv2.avif",
+      "alt": "Leo, male Poodle puppy, photo 4",
+      "focus": "54.8% 38%",
+      "color": "#f8f8f8"
+    }
+  ]
+}

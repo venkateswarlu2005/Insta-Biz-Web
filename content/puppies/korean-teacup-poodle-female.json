@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "breed": "Korean Teacup Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": true,
+  "status": "available",
+  "hero": false,
+  "order": 3,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/xeMJCapr5vcU/e618c653b2/b942a5_14376a216177484dbbb27995d0f6aeb7-mv2.jpg",
+      "alt": "Female Korean Teacup Poodle puppy",
+      "focus": "54.5% 45.7%",
+      "color": "#f8d8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/GcThnLZ1o_XO/f28ac11602/b942a5_e172674fef9e426eaff0e73a7e4eba77-mv2.jpg",
+      "alt": "Female Korean Teacup Poodle puppy, photo 2",
+      "focus": "54.8% 42.9%",
+      "color": "#f8d8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/-GPU8k3WeJq7/59ae864abe/b942a5_677a4998fefe4388b8c5f79d74129b88-mv2.jpg",
+      "alt": "Female Korean Teacup Poodle puppy, photo 3",
+      "focus": "57.2% 38.6%",
+      "color": "#f8d8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/9v0TRGsxL1vp/43b2f58f58/b942a5_e17e745414544ea1b578880ea1bf535b-mv2.jpg",
+      "alt": "Female Korean Teacup Poodle puppy, photo 4",
+      "focus": "55.9% 42.4%",
+      "color": "#b89888"
+    }
+  ]
+}

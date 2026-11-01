@@ -1,0 +1,46 @@
+{
+  "name": "Lola",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 20,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/HPs4cYizPzy9/22b104e2c5/27b888_f24865b2456b46feb6ea6694fe90660f-mv2.avif",
+      "alt": "Lola, female Maltipoo puppy",
+      "focus": "54.3% 37.3%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/jvXWZ3mAHc5-/7ae950c581/27b888_da6512d2547341a48e3d9a4fb9e1b8a2-mv2.avif",
+      "alt": "Lola, female Maltipoo puppy, photo 2",
+      "focus": "53.5% 36.8%",
+      "color": "#f8d8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/XGJNMr35jPMb/bfdab4a1ee/27b888_0113c1b4ca8646f797aeecbd20745bb3-mv2.avif",
+      "alt": "Lola, female Maltipoo puppy, photo 3",
+      "focus": "48.8% 25.7%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/yjYnkgvYqpaV/4630a760d4/27b888_3fb29e6bf686475490057f028e469f81-mv2.avif",
+      "alt": "Lola, female Maltipoo puppy, photo 4",
+      "focus": "50.7% 37.6%",
+      "color": "#e8e8d8"
+    }
+  ]
+}

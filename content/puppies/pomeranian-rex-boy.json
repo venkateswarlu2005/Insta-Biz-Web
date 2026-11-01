@@ -1,0 +1,39 @@
+{
+  "name": "Rex",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "boy",
+  "age": "5 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 21,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/QIIvMqQTe9jr/d997ae172e/27b888_14fd6ec24bd94522bd54a5ae345240b8-mv2.avif",
+      "alt": "Rex, male Pomeranian puppy",
+      "focus": "49.7% 36.9%",
+      "color": "#c8b8b8"
+    },
+    {
+      "type": "image",
+      "src": "/media/XYGXHgU4LzqM/ddd5877dc7/27b888_a8e74e520f54499894261fac1dcdf54b-mv2.avif",
+      "alt": "Rex, male Pomeranian puppy, photo 2",
+      "focus": "50.6% 32.9%",
+      "color": "#d8c8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/NnPuBopnrcWb/0ff6aeca20/27b888_f248f0c1e47641698dd0345d48b2d1e0-mv2.avif",
+      "alt": "Rex, male Pomeranian puppy, photo 3",
+      "focus": "48.6% 53.8%",
+      "color": "#f8f8f8"
+    }
+  ]
+}

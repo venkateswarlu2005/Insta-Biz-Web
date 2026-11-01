@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "breed": "Shih Tzu",
+  "breeds": [
+    "Shih Tzu"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": true,
+  "order": 9,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/qNrTCSrsYyzY/168fa8c4ff/b942a5_eb14616c76c24da89afe7fa3b7d7ae6a-mv2.jpeg",
+      "alt": "Female Shih Tzu puppy",
+      "focus": "44.8% 42.5%",
+      "color": "#383848"
+    },
+    {
+      "type": "image",
+      "src": "/media/IiEprGOhv7PA/bc83339b6d/b942a5_c5497befad4d4a70937e669e6c67bbb2-mv2.jpeg",
+      "alt": "Female Shih Tzu puppy, photo 2",
+      "focus": "52.6% 40.3%",
+      "color": "#484858"
+    }
+  ]
+}

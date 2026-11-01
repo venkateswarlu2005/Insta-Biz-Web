@@ -1,0 +1,46 @@
+{
+  "name": "Ace",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 1,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/mihUKGFCatU3/0461cca56e/27b888_bac41adfadc44dce846a1c3fd0cdb0de-mv2.avif",
+      "alt": "Ace, male Pomeranian puppy",
+      "focus": "52.8% 46.2%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/0mLBLYUEZO0F/69719f9b64/27b888_fedd02dfc8194be3b4457dea89e42b6a-mv2.avif",
+      "alt": "Ace, male Pomeranian puppy, photo 2",
+      "focus": "49.4% 41.6%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/_JEM2zK5kB78/a57636c48b/27b888_d55a0501b1004d36ae773a229ca9eb2b-mv2.avif",
+      "alt": "Ace, male Pomeranian puppy, photo 3",
+      "focus": "46.4% 42.3%",
+      "color": "#e8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/gTucfeDbLs-F/d9132a6eab/27b888_0bb81d7ad329438d9daf6baf3301f28d-mv2.avif",
+      "alt": "Ace, male Pomeranian puppy, photo 4",
+      "focus": "45.2% 37.4%",
+      "color": "#e8d8d8"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": false,
+  "order": 12,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/lMhASnmIIVQ4/ad2353ad31/b942a5_6a5617708d75408b8f73725080ed0149-mv2.jpg",
+      "alt": "Female Maltipoo puppy",
+      "focus": "56.9% 49.2%",
+      "color": "#e8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/_NpYIcbNGQC0/0dfcc90259/b942a5_34efe8b4c5c244fca7bb059e5b08891e-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 2",
+      "focus": "53.4% 44.3%",
+      "color": "#e8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/l--XKCkJac6g/9e60957bb7/b942a5_6b2183f855cc4881933923f255131b51-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 3",
+      "focus": "47.7% 53.5%",
+      "color": "#f8e8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/N1XdMhMnfw-A/6ba6cbb4d2/b942a5_d7eb4c4b58174a26976134a7db05da78-mv2.jpg",
+      "alt": "Female Maltipoo puppy, photo 4",
+      "focus": "47.2% 50.9%",
+      "color": "#f8e8c8"
+    }
+  ]
+}

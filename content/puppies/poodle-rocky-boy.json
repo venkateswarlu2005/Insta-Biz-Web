@@ -1,0 +1,39 @@
+{
+  "name": "Rocky",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 18,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/51aMfxO7oeVe/6b70c96b1e/27b888_77a51d530b694ba58bc207f2a23e8620-mv2.avif",
+      "alt": "Rocky, male Poodle puppy",
+      "focus": "49.3% 38%",
+      "color": "#f8e8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/ztyBn9j_JUCY/8e34de94d3/27b888_8c7c6fbef3d94e0da67939b48ca26b25-mv2.avif",
+      "alt": "Rocky, male Poodle puppy, photo 2",
+      "focus": "49.5% 33.3%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/qlNAvs41lO96/fcfd5491ed/27b888_e8fb7ccebeeb4786aaae57f6f57730db-mv2.avif",
+      "alt": "Rocky, male Poodle puppy, photo 3",
+      "focus": "57.1% 37.7%",
+      "color": "#f8f8f8"
+    }
+  ]
+}

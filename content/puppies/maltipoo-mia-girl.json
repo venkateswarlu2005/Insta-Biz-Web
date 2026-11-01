@@ -1,0 +1,46 @@
+{
+  "name": "Mia",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "Golden Cream",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 3,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/4vu6_PGfL64H/537c367d85/27b888_747a4667fec640c69aad9bc045d61ac6-mv2.avif",
+      "alt": "Mia, female Maltipoo puppy",
+      "focus": "50.3% 43.2%",
+      "color": "#b88878"
+    },
+    {
+      "type": "image",
+      "src": "/media/cJ3YobQIt64F/af918668a5/27b888_bcc00a0c65df4cb283b31f70931f7926-mv2.avif",
+      "alt": "Mia, female Maltipoo puppy, photo 2",
+      "focus": "58.8% 36.1%",
+      "color": "#a87848"
+    },
+    {
+      "type": "image",
+      "src": "/media/QXBQG6XQyPHY/bc591f3e2d/27b888_57ae0a2f894a4a9c8743910033e892f2-mv2.avif",
+      "alt": "Mia, female Maltipoo puppy, photo 3",
+      "focus": "60.6% 38%",
+      "color": "#f8e8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/-OqPQNWP1dg2/e47558e3b9/27b888_b5d098a0c38e4339b99f40c53efe67ce-mv2.avif",
+      "alt": "Mia, female Maltipoo puppy, photo 4",
+      "focus": "47.7% 37.8%",
+      "color": "#383848"
+    }
+  ]
+}

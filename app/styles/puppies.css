@@ -1,0 +1,8 @@
+/* Puppy pages: additions on top of site.css (the original stylesheet). */
+
+/* gone-home strip cards now show the same "breed · gender · age" line as every other card */
+.tp-sketch--small .tp-sketch__meta {
+  margin-top: 0.2rem;
+  font-size: 0.78rem;
+  line-height: 1.25;
+}

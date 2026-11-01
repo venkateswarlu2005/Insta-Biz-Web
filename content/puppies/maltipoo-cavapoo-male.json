@@ -1,0 +1,41 @@
+{
+  "name": "",
+  "breed": "Maltipoo & Cavapoo",
+  "breeds": [
+    "Maltipoo",
+    "Cavapoo"
+  ],
+  "gender": "boy",
+  "age": "3 months Maltipoo & 2 months Cavapoo",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": true,
+  "order": 4,
+  "description": "Maltipoo (Left) & Cavapoo (Right).",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/YQhey4j7uWvZ/3ea10db6c1/b942a5_7ce7e7bd18424b6c8fb16dd30113ade2-mv2.jpg",
+      "alt": "Male Maltipoo & Cavapoo puppy",
+      "focus": "44.7% 29.5%",
+      "color": "#b8a8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/jeaf0UcmFDSq/17b98c71ac/b942a5_244840afa15e4b008149736d5b894256-mv2.jpg",
+      "alt": "Male Maltipoo & Cavapoo puppy, photo 2",
+      "focus": "44.3% 31.5%",
+      "color": "#b8a8a8"
+    },
+    {
+      "type": "video",
+      "src": "/media/_cJaO-ryO6ev/af9e004679/b942a5_93358f1b7c434434b226b19e9ee0705b.mp4",
+      "poster": "/media/czRyKKk8Lm5N/6356959786/b942a5_93358f1b7c434434b226b19e9ee0705bf002.jpg",
+      "alt": "Video of male Maltipoo & Cavapoo puppy",
+      "focus": "42.8% 31.3%",
+      "color": "#a89888"
+    }
+  ]
+}

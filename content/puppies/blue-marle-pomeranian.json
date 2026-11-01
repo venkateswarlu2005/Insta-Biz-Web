@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "Marble",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 5,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/bMSEHnYcBTFF/970fdc1ee6/27b888_5e612a215bf343328c08d99e0e9c5a37-mv2.avif",
+      "alt": "Male Pomeranian puppy",
+      "focus": "52.3% 51.6%",
+      "color": "#887878"
+    }
+  ]
+}

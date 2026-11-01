@@ -1,0 +1,60 @@
+{
+  "name": "Mimi",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 24,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/BLOZLPixUcjE/ea8ee97fd9/27b888_870c748ca6ee45cf8e0a311232dfe289-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy",
+      "focus": "58.1% 41%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/9w3Xrwp8VCQp/e455e81074/27b888_35987320182c43ae99f69be57dc808f4-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy, photo 2",
+      "focus": "53.1% 43.1%",
+      "color": "#f8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/7mVO0A41SNif/2113a35f3f/27b888_ffa8f9864c0f41d3809ecfba1e55c6e5-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy, photo 3",
+      "focus": "41.1% 48.1%",
+      "color": "#f8f8f8"
+    },
+    {
+      "type": "image",
+      "src": "/media/dreWbR7rs4Jm/8309c5e44f/27b888_e58f6f4bb6494b89a1a2420c802d048e-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy, photo 4",
+      "focus": "61% 40.5%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/Dn_gqD19_Ybk/697e714a4f/27b888_b6cdad723f8e4b70aa17668d66c8ac1f-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy, photo 5",
+      "focus": "54.3% 46.6%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/tJCfAV1Itd01/844334e3e7/27b888_2df697590667454fbb3dda9da65e4544-mv2.avif",
+      "alt": "Mimi, female Pomeranian puppy, photo 6",
+      "focus": "46.8% 38%",
+      "color": "#f8e8e8"
+    }
+  ]
+}

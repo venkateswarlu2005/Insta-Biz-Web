@@ -1,0 +1,33 @@
+{
+  "name": "Max",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": false,
+  "order": 1,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/Z0ToauDx7Eve/5fffe4d022/b942a5_4b8cfb8204d24eadaf524332aba1dc15-mv2.webp",
+      "alt": "Max, male Maltipoo puppy",
+      "focus": "53.8% 44.3%",
+      "color": "#785838"
+    },
+    {
+      "type": "video",
+      "src": "/media/jNYYlZcF2IuE/61af7a5e09/b942a5_a1fa75c7bf2f4d688ec0ce0344baef67.mp4",
+      "poster": "/media/RH7J577OfQ7f/e776d07dbd/b942a5_a1fa75c7bf2f4d688ec0ce0344baef67f000.jpg",
+      "alt": "Video of Max, male Maltipoo puppy",
+      "focus": "57.1% 44.6%",
+      "color": "#c8c8b8"
+    }
+  ]
+}

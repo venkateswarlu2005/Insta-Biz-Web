@@ -1,0 +1,46 @@
+{
+  "name": "Copper",
+  "breed": "Cavapoo",
+  "breeds": [
+    "Cavapoo"
+  ],
+  "gender": "boy",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "available",
+  "hero": false,
+  "order": 8,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/O-6w4FYqE10j/be76f399cc/b942a5_bb73ebbb952047988f944f3a8e3052bd-mv2.jpg",
+      "alt": "Copper, male Cavapoo puppy",
+      "focus": "43% 50.5%",
+      "color": "#e8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/57IVFGZFRSJ1/70ec15d562/b942a5_2c13cdda0a174e33b22cf65063e1aa7f-mv2.jpg",
+      "alt": "Copper, male Cavapoo puppy, photo 2",
+      "focus": "47.8% 43.3%",
+      "color": "#e8c8a8"
+    },
+    {
+      "type": "image",
+      "src": "/media/2stMgxztsgXb/8b643b4842/b942a5_ce135cde6ebe45abb75435a7ce7d6910-mv2.jpg",
+      "alt": "Copper, male Cavapoo puppy, photo 3",
+      "focus": "50.1% 41.7%",
+      "color": "#e8d8c8"
+    },
+    {
+      "type": "image",
+      "src": "/media/objS5G36nXH0/4d398662f6/b942a5_f29547489be747e597ed20c191e1f24c-mv2.jpg",
+      "alt": "Copper, male Cavapoo puppy, photo 4",
+      "focus": "52.6% 45.1%",
+      "color": "#e8d8d8"
+    }
+  ]
+}

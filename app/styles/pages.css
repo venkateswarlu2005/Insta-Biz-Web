@@ -1,0 +1,59 @@
+/* Happy families, How it works, FAQ, Contact: additions on top of site.css (the original stylesheet). */
+
+/* the original's `measure` utility (missing from site.css) */
+.measure {
+  max-width: 62ch;
+}
+
+/* ---- How it works: tablet / split-screen fixes ---- */
+
+/* 768–1023px: the original squeezed "Two ways home" into a ~90px column next to the switch.
+   Stack the heading above the switch until there is room for both. */
+@media (min-width: 768px) and (max-width: 1023.98px) {
+  .tp-journeys__top {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* 600–1099px: steps as a tidy 2 × 2 grid instead of 3 + 1 orphan card */
+@media (min-width: 600px) and (max-width: 1099.98px) {
+  .tp-steps {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* "Unique and high quality puppies" board: the two buttons sit side by side on tablet and
+   desktop. Text, buttons and Teddy are grid areas so the buttons can use the full board
+   width on tablets (they only stack on narrow phones, where they can't fit). */
+.tp-care {
+  grid-template-areas: 'text' 'actions' 'teddy';
+}
+.tp-care__text {
+  grid-area: text;
+}
+.tp-care__actions {
+  grid-area: actions;
+}
+.tp-care__teddy {
+  grid-area: teddy;
+}
+@media (min-width: 768px) {
+  .tp-care {
+    grid-template-areas: 'text teddy' 'actions actions';
+    row-gap: 2rem;
+  }
+}
+@media (min-width: 1024px) {
+  .tp-care {
+    grid-template-areas: 'text teddy' 'actions teddy';
+    align-content: center;
+  }
+  .tp-care__actions {
+    align-self: start;
+  }
+}
+@media (min-width: 640px) {
+  .tp-care__actions {
+    flex-wrap: nowrap;
+  }
+}

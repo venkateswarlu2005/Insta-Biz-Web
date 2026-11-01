@@ -1,0 +1,25 @@
+{
+  "name": "Daisy",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 10,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/d_ji2d9LVy0R/b19b4cf1c2/27b888_c6cbb607448f469a96d73f3bc42a992d-mv2.avif",
+      "alt": "Daisy, female Pomeranian puppy",
+      "focus": "47.8% 38.4%",
+      "color": "#e8e8e8"
+    }
+  ]
+}

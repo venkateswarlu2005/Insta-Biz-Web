@@ -1,0 +1,25 @@
+{
+  "name": "Teddy",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 12,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/9XFYXsuvjIcz/8d1efc8baa/27b888_430ebbf87dc84b93bcd0b61709a2eaa7-mv2.avif",
+      "alt": "Teddy, male Poodle puppy",
+      "focus": "39.8% 37.5%",
+      "color": "#e8e8e8"
+    }
+  ]
+}

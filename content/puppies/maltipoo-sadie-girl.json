@@ -1,0 +1,46 @@
+{
+  "name": "Sadie",
+  "breed": "Maltipoo",
+  "breeds": [
+    "Maltipoo"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 4,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/159oT4F46uhk/b66c2be87f/27b888_ea6e7e0fcd43447d854657b6de98d4cb-mv2.avif",
+      "alt": "Sadie, female Maltipoo puppy",
+      "focus": "47.9% 41.8%",
+      "color": "#f8d8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/GTf7_pB5IENu/d206256b72/27b888_6a5e21b5a5ea492aa119b255e2bd3f7f-mv2.avif",
+      "alt": "Sadie, female Maltipoo puppy, photo 2",
+      "focus": "53.5% 37.5%",
+      "color": "#f8e8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/HqzIOWZpu8an/fac3edd0df/27b888_aba0ec75ce444fb29828f08cd95eb6d2-mv2.avif",
+      "alt": "Sadie, female Maltipoo puppy, photo 3",
+      "focus": "42.4% 37%",
+      "color": "#986858"
+    },
+    {
+      "type": "image",
+      "src": "/media/4vu6_PGfL64H/537c367d85/27b888_747a4667fec640c69aad9bc045d61ac6-mv2.avif",
+      "alt": "Sadie, female Maltipoo puppy, photo 4",
+      "focus": "50.3% 43.2%",
+      "color": "#b88878"
+    }
+  ]
+}

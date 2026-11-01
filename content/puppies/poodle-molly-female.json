@@ -1,0 +1,25 @@
+{
+  "name": "Molly",
+  "breed": "Poodle",
+  "breeds": [
+    "Poodle"
+  ],
+  "gender": "girl",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 13,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/WZKcpiogRBW7/9ebcb8d165/27b888_2b9e32b056624a45b62f7d7b4ec7d105-mv2.avif",
+      "alt": "Molly, female Poodle puppy",
+      "focus": "53.3% 37.7%",
+      "color": "#c8a898"
+    }
+  ]
+}

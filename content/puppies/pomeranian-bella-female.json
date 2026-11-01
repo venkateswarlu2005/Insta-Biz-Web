@@ -1,0 +1,25 @@
+{
+  "name": "Bella",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "girl",
+  "age": "4 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 11,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/9jwfs8kSZW7K/9b8ae31d11/27b888_ab014eabe44c4f6ebaacb9ef1869823f-mv2.avif",
+      "alt": "Bella, female Pomeranian puppy",
+      "focus": "49.4% 36.9%",
+      "color": "#181828"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "breed": "Korean Teacup Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "girl",
+  "age": "2 months",
+  "colour": "",
+  "origin": "imported",
+  "koreanTeacup": true,
+  "status": "available",
+  "hero": false,
+  "order": 13,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/EsAq2LSRvVCJ/4d553ed044/b942a5_a8d264c1aa754d80bc7c98917dfd1fda-mv2.jpg",
+      "alt": "Female Korean Teacup Pomeranian puppy",
+      "focus": "49.9% 51.3%",
+      "color": "#d8d8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/NCYZMBazXOyI/a67f6a1316/b942a5_4439600d2b084918be65f14abbd5a67b-mv2.jpg",
+      "alt": "Female Korean Teacup Pomeranian puppy, photo 2",
+      "focus": "64.9% 39.7%",
+      "color": "#d8d8d8"
+    }
+  ]
+}

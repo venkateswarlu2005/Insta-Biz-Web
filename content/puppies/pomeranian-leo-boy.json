@@ -1,0 +1,53 @@
+{
+  "name": "Leo",
+  "breed": "Pomeranian",
+  "breeds": [
+    "Pomeranian"
+  ],
+  "gender": "boy",
+  "age": "3 months",
+  "colour": "",
+  "origin": "dubai",
+  "koreanTeacup": false,
+  "status": "gone-home",
+  "hero": false,
+  "order": 16,
+  "description": "",
+  "media": [
+    {
+      "type": "image",
+      "src": "/media/5iCniMJshKud/8bfe42003c/27b888_84815fae2bd34283a7c79985cfc8b568-mv2.avif",
+      "alt": "Leo, male Pomeranian puppy",
+      "focus": "57.4% 32.4%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/QlGcnXhp9ltN/f9622d939f/27b888_329b81a9e73f44f9abcefb2df439ed77-mv2.avif",
+      "alt": "Leo, male Pomeranian puppy, photo 2",
+      "focus": "52.7% 46.9%",
+      "color": "#f8e8d8"
+    },
+    {
+      "type": "image",
+      "src": "/media/vngT5Hr9RU6K/f52c3f8260/27b888_0d355b89f12a426184e6d2a802645ff7-mv2.avif",
+      "alt": "Leo, male Pomeranian puppy, photo 3",
+      "focus": "46.5% 36.5%",
+      "color": "#f8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/_dhcJyTwachZ/c31dda74cb/27b888_c89990141ab24537920899c1460621a7-mv2.avif",
+      "alt": "Leo, male Pomeranian puppy, photo 4",
+      "focus": "65% 31.7%",
+      "color": "#e8e8e8"
+    },
+    {
+      "type": "image",
+      "src": "/media/PFumanOM5PmY/18390f4df3/27b888_9e6748342ed64d38bdff94b0a0858270-mv2.avif",
+      "alt": "Leo, male Pomeranian puppy, photo 5",
+      "focus": "50.1% 35.1%",
+      "color": "#d8d8c8"
+    }
+  ]
+}

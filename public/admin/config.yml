@@ -4,7 +4,7 @@
 
 backend:
   name: github
-repo: venkateswarlu2005/Insta-Biz-Web # <- set to the real repository
+  repo: venkateswarlu2005/Insta-Biz-Web
   branch: main
   # GitHub sign-in helper (free Cloudflare Worker): https://github.com/sveltia/sveltia-cms-auth
   base_url: https://sveltia-cms-auth.mocherlavenkateswarlu55.workers.dev/ # <- set after deploying the worker
